@@ -1,2 +1,1 @@
-print('hello mano')
-print('hello mana')
+print('hello from manos')
