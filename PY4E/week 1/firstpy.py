@@ -1,1 +1,2 @@
-print('hello from manos')
+print('hello mano')
+print('hello mana')
